@@ -1,0 +1,2 @@
+rootProject.name = "Muse13.05.2021"
+include ':app'

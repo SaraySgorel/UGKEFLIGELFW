@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name"></string>
+    <string-array name="genre">
+        <item>Рок</item>
+        <item>Электронная музыка</item>
+        <item>Джаз</item>
+        <item>Блюз</item>
+        <item>Хип-хоп</item>
+        <item>Поп-музыка</item>
+        <item>Метал</item>
+        <item>Рэп</item>
+        <item>Инди</item>
+        <item>Альтернатива</item>
+        <item>R&amp;B</item>
+        <item>Классическая</item>
+        <item>Кантри</item>
+        <item>Фанк</item>
+        <item>Соул</item>
+        <item>Фолк</item>
+        <item>Авангард-метал</item>
+        <item>Блэк-метал</item>
+        <item>Хэви-метал</item>
+        <item>Спид-метал</item>
+        <item>Трэш-метал</item>
+        <item>Альтернативный метал</item>
+        <item>Индастриал-метал</item>
+        <item>Металкор</item>
+        <item>Ню-метал</item>
+        <item>Христианский метал</item>
+        <item>Фанк-метал</item>
+        <item>Рэп-метал</item>
+        <item>Дэт-метал</item>
+        <item>Дум-метал</item>
+        <item>Грув-метал</item>
+        <item>Глэм-метал</item>
+        <item>Дарк-метал</item>
+        <item>Пауэр-метал</item>
+        <item>Прогрессивный метал</item>
+        <item>Симфоник-метал</item>
+        <item>Сладж-метал</item>
+        <item>Стоунер-метал</item>
+        <item>Готик-метал</item>
+        <item>Пост-метал</item>
+        <item>Дэт-дум-метал</item>
+        <item>Мат-метал</item>
+        <item>Альтернативный дэнс</item>
+        <item>Альтернативный рок</item>
+        <item>Альтернативный хип-хоп</item>
+        <item>Бит</item>
+        <item>Авангардный панк</item>
+        <item>Арт-рок</item>
+        <item>Блэк-дэт-метал</item>
+        <item>Блюз-рок</item>
+        <item>Виолончельный рок</item>
+        <item>Кельтик-панк</item>
+        <item>Кельтик-метал</item>
+        <item>Кельтик-рок</item>
+        <item>Христкор</item>
+        <item>Христианский панк-рок</item>
+        <item>Христианский рок</item>
+        <item>Колвейв</item>
+        <item>Кантри-рок</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+
+
+    </string-array>
+
+</resources>
